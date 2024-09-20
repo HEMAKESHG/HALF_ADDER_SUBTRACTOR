@@ -32,6 +32,8 @@ Borrow = A’B
  ![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/154305477/d76b099c-513f-4e7c-843a-e2fd028a531a)
 
 Figure -02 HALF Subtractor
+
+
 **Truthtable**
 
 **HALF ADDER**
@@ -80,14 +82,22 @@ endmodule
 
 **RTL Schematic:**
 
+#Half Adder
 ![Screenshot 2024-09-20 082557](https://github.com/user-attachments/assets/7b03f8e6-1964-466d-ac10-0f5e8e36b466)
+
+#Half Subtractor
 ![Screenshot 2024-09-20 083403](https://github.com/user-attachments/assets/968b3083-aa5d-4ee6-9b16-15940b30db25)
 
 
 **Output/TIMING Waveform:**
 
+#Half Adder
 ![Screenshot 2024-09-20 082746](https://github.com/user-attachments/assets/aac49ded-5952-465d-bf7e-c53d58ba13e7)
+
+#Half Subtractor
 ![Screenshot 2024-09-20 083606](https://github.com/user-attachments/assets/394e1562-19f4-4f0a-8e50-e262272063ff)
 
 
 **Result:**
+
+Thus, the program was successfully verified.
